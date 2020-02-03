@@ -4,13 +4,11 @@
 ○ Provide GTest
 ○ Provide runtime analysis
 ○ Proof of correctness is not necessary unless specified
-● For submission, please create a zip file of all of your assignments and only submit one
-file.
+● For submission, please create a zip file of all of your assignments and only submit one file.
 ● Leave any extra instructions for the graders in a README file.
 ● Our grader should be able to call blaze run/test ... and run your code/test.
 ● Deadline: Monday, Feb 3rd, before 6pm.
-● Total: 130 points. 100 points is considered full
-credit.
+● Total: 130 points. 100 points is considered full credit.
 Question 1 (10 Points. Easy)
 Write several functions with the same name ​Add​ using function overloading to satisfy the following requirements:
 ● All three functions take ​2 parameters​ as the input.
