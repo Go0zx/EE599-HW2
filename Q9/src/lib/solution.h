@@ -8,7 +8,7 @@
 class Solution {
 public:
   std::string PrintHelloWorld();
-  void RotaeV(std::vector<int> &vec, int num);
+  void RotateV(std::vector<int> &vec, int num);
 };
 
 #endif
