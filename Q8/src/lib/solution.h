@@ -3,12 +3,11 @@
 
 #include <string>
 #include <vector>
-#include <algorithm>
 
 class Solution {
 public:
   std::string PrintHelloWorld();
-  void RotaeV(std::vector<int> &vec, int num);
+  void Rearranges(std::vector<int> &inputs);
 };
 
 #endif
